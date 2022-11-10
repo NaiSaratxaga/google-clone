@@ -16,7 +16,7 @@ _I created this project to clone the Google home page. The point was to practice
 
 ## 👀 Where you can see
 
-[The project]()
+[The project](https://naisaratxaga.github.io/google-clone/)
 
 ## Made with ❤️ by
 
